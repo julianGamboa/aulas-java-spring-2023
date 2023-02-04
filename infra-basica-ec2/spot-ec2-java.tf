@@ -138,7 +138,8 @@ sudo yum install -y java-1.8.0-amazon-corretto
 
 #### Executando
 
-wget https://2021-bahia.s3.us-east-2.amazonaws.com/julian-0.0.1-SNAPSHOT.jar
+wget https://aws-spring-login-2023.s3.us-east-2.amazonaws.com/julian-0.0.1-SNAPSHOT.jar
+#wget https://2021-bahia.s3.us-east-2.amazonaws.com/julian-0.0.1-SNAPSHOT.jar
 
 java -jar julian-0.0.1-SNAPSHOT.jar
 
