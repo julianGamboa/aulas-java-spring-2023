@@ -21,13 +21,7 @@ O terraform será usado desde a máquina local para crear uma instancia EC2 (na 
 
 Já o serviço [CodePipeline](https://aws.amazon.com/pt/codepipeline/) será acoplado ao repositório de Github (https://github.com/julian-gamboa-ensino/aws-spring-login-2023.git) para gerar uma nova versão do arquivo JAR cada vez que seja feito um commit no branch master deste repositório. Este arquivo JAR será colocado num bucket S3
 
-## Detalhes dos princípios de **CI/CD** aplicados.
-## Detalhes dos princípios de **CI/CD** aplicados.
-## Detalhes dos princípios de **CI/CD** aplicados.
-## Detalhes dos princípios de **CI/CD** aplicados.
-## Detalhes dos princípios de **CI/CD** aplicados.
-## Detalhes dos princípios de **CI/CD** aplicados.
-## Detalhes dos princípios de **CI/CD** aplicados.
+
 ## Detalhes dos princípios de **CI/CD** aplicados.
 
 
